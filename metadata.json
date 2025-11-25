@@ -1,0 +1,5 @@
+{
+  "name": "Performance Dashboard",
+  "description": "A comprehensive dashboard to visualize retail store performance across multiple categories (PPP, Third Party, Glass, Power, Campus), featuring cross-referenced store analysis and interactive leaderboards.",
+  "requestFramePermissions": []
+}
